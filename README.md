@@ -15,4 +15,5 @@
 
 **Git Pull**
 1. Get the latest changes from remote to working copy
+2. Fetch + Merge
 
