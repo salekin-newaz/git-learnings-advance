@@ -28,3 +28,7 @@
 5. push the code to remote
 6. Create a pull request
 7. Merge the code once Approved
+
+**Merge Conflict**
+1. Merge conflicts happens when you merge branches that have competing commits and git needs your help to find the final changes
+2. In most occasions git can automatically merge New
