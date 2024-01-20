@@ -14,5 +14,5 @@
 3. GitHub account setup in IntelliJ
 
 **Git Pull**
-
+1. Get the latest changes from remote to working copy
 
