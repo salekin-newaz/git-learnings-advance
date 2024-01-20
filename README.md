@@ -18,4 +18,13 @@
 2. Fetch + Merge
 
 **Git Branches**
+1. Branches create a new line of development without affecting the master/main branch
 
+**Adding New Features**
+1. Pull latest changes
+2. Create a branch
+3. Make changes
+4. Commit the changes
+5. push the code to remote
+6. Create a pull request
+7. Merge the code once approved
