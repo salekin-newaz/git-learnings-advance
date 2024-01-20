@@ -27,4 +27,6 @@
 4. Commit the changes
 5. push the code to remote
 6. Create a pull request
-7. Merge the code once approved
+7. Merge the code once approv
+
+
