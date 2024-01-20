@@ -32,3 +32,10 @@
 **Merge Conflict**
 1. Merge conflicts happens when you merge branches that have competing commits and git needs your help to find the final changes
 2. In most occasions git can automatically merge New
+
+
+**Revert/Reset/Drop/Undo Commit**
+1. Revert/Reset Commit- history will be maintained in Git log
+2. Drop commit- No history will be maintained
+3. Undo commit- Drop the commit but the file changes will be still valid
+
