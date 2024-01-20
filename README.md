@@ -12,3 +12,8 @@
 1. Moving your code from local to remote
 2. We need to have a GitHub account
 3. GitHub account setup in IntelliJ
+
+**Git Pull**
+1. Get the latest changes from remote to working copy
+2. Fetch + Merge
+
